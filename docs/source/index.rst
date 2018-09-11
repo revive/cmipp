@@ -6,6 +6,10 @@
 Welcome to Guides on Data Analysis in Particle Physics's documentation!
 =======================================================================
 
+This document is aimed to provide an introduction to the necessary tools and methods for the data analysis in particle physics. I hope the students who want to improve their data analysis skill could benefit from it.
+
+The document is divided into two parts. The first part is about the tools, and the second part is about the methods.
+
 Contents:
 
 .. toctree::
